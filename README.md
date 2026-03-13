@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey, I'm Clarence.
 
-<!--
-**k0diak-sec/k0diak-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security analyst and Navy veteran building hands-on security tools and grinding SOC/SIEM labs.
 
-Here are some ideas to get you started:
+**What's here:**
+- **PureAudit** - Python network auditing tool with three scan modes, OUI lookup, and automated reporting
+- SOC/SIEM lab configs and detection rule experiments (coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently working through:** KC7, LetsDefend, HackTheBox, TryHackMe
+
+Security+ | B.S. Cybersecurity Technology, UMGC
+
+cmcadoryjr@icloud.com | linkedin.com/in/cmcadory
