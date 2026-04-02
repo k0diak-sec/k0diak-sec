@@ -9,5 +9,3 @@ Security analyst and Navy veteran building hands-on security tools and grinding 
 **Currently working through:** KC7, LetsDefend, HackTheBox, TryHackMe
 
 Security+ | B.S. Cybersecurity Technology, UMGC
-
-cmcadoryjr@gmail.com | linkedin.com/in/cmcadory
