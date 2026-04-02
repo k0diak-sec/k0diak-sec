@@ -10,4 +10,4 @@ Security analyst and Navy veteran building hands-on security tools and grinding 
 
 Security+ | B.S. Cybersecurity Technology, UMGC
 
-cmcadoryjr@icloud.com | linkedin.com/in/cmcadory
+cmcadoryjr@gmail.com | linkedin.com/in/cmcadory
